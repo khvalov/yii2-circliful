@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class CirclifulAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/circliful';
+    public $sourcePath = '@vendor/pguso/jquery-plugin-circliful';
     public $css = [
         'css/jquery.circliful.css',
     ];
