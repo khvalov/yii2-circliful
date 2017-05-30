@@ -1,5 +1,5 @@
 {
-  "name": "starcode/yii2-circliful",
+  "name": "khvalov/yii2-circliful",
   "type": "yii2-extension",
   "description": "Circliful jquery-plugin integration",
   "keywords": ["yii2", "circliful", "circular stat", "js"],
